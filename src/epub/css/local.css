@@ -78,7 +78,22 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
+/* Inline verse/song */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
 
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+/* End inline verse/song */
 
 #chapter-2 blockquote strong{
 	font-size: 1.5em;
