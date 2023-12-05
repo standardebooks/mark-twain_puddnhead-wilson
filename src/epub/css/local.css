@@ -77,3 +77,20 @@ section > header [epub|type~="epigraph"] + *{
 	}
 }
 /* End epigraphs in section headers */
+
+#chapter-2 blockquote strong{
+	font-size: 1.5em;
+	font-variant: all-small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-2 blockquote:nth-child(n+3) p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-2 div {
+	text-align: center;
+  }
