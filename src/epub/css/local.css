@@ -108,8 +108,8 @@ section > header [epub|type~="epigraph"] + *{
 	text-indent: 0;
 }
 
-#chapter-2 p:nth-child(6) {
+#chapter-2 p:nth-child(6){
 	line-height: 2;
 	text-align: center;
 	text-indent: 0;
-  }
+}
