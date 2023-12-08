@@ -49,37 +49,41 @@
 		<meta property="term" refines="#subject-6">sh2008123645</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008108937</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A small-town lawyer unravels a complex web of switched identities and exposes the true nature of individuals in a racially divided society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;“Pudd’nhead Wilson” by &lt;a href="https://standardebooks.org/ebooks/mark-twain"&gt;Mark Twain&lt;/a&gt; is a thought-provoking novel set in the fictional town of Dawson’s Landing, Missouri. The story revolves around the peculiar character of David Wilson, known as “Pudd’nhead” Wilson, a quirky and eccentric young lawyer with the unusual hobby of collecting fingerprints. As he experiments with this new forensic science, Wilson becomes entangled in the lives of two infants, Tom Driscoll, the son of a wealthy local family, and Chambers, a slave child. Due to a mix-up during infancy, the two boys’ lives take drastically different paths, with Tom growing up as the heir to a fortune, and Chambers living the life of a slave.&lt;/p&gt;
+			&lt;p&gt;The novel weaves a complex narrative that intertwines the lives of the two switched infants, the townspeople of Dawson’s Landing, and the enigmatic Wilson. The social commentary on race and the examination of the consequences of the switch reveal Twain’s sharp wit and satirical prowess. The characters face moral dilemmas, and as the story unfolds, the consequences of their actions come to a head in a dramatic and tragic climax.&lt;/p&gt;
+			&lt;p&gt;“&lt;i&gt;Pudd’nhead Wilson&lt;/i&gt;” serves as a thought-provoking exploration of societal norms and the impact of identity on the human experience, with Twain’s signature humor and insight. It was first serialized in &lt;i&gt;The Century Magazine&lt;/i&gt; in 1893/1894, then released in book form by Charles &lt;abbr&gt;L.&lt;/abbr&gt; Webster &amp;amp; &lt;abbr&gt;Co.&lt;/abbr&gt; in 1894.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/102</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/tragedypuddnhea00twaigoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pudd%27nhead_Wilson</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_puddnhead-wilson</meta>
 		<dc:creator id="author">Mark Twain</dc:creator>
 		<meta property="file-as" refines="#author">Twain, Mark</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Mark_Twain</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n93099439</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">William Josiah Brickey</dc:contributor>
+		<meta property="file-as" refines="#artist">Brickey, William Josiah</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Robert Homa</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Homa, Robert</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Kevin Palm</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Palm, Kevin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
