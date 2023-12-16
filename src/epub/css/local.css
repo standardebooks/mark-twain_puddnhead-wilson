@@ -51,18 +51,18 @@ section > header [epub|type~="epigraph"] + *{
 /* End epigraphs in section headers */
 
 /* Inline verse/song */
-[epub|type~="z3998:verse"] p{
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span{
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 /* End inline verse/song */
@@ -70,8 +70,6 @@ section > header [epub|type~="epigraph"] + *{
 #chapter-2 blockquote b{
 	font-size: 1.5em;
 	font-variant: all-small-caps;
-	text-align: center;
-	text-indent: 0;
 }
 
 #chapter-2 blockquote:nth-child(n+3) p{
