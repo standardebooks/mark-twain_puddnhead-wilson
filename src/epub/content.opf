@@ -59,6 +59,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/102</dc:source>
 		<dc:source>https://archive.org/details/tragedypuddnhea00twaigoog</dc:source>
+		<dc:source>https://archive.org/details/puddnheadwilsone0000mark</dc:source>
+		<meta property="se:production-notes">Chapter titles taken from 1922 scans</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pudd%27nhead_Wilson</meta>
