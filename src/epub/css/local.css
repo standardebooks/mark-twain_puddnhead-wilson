@@ -71,19 +71,17 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End inline verse/song */
 
-#chapter-2 blockquote b{
-	font-size: 1.5em;
-	font-variant: all-small-caps;
-}
-
-#chapter-2 blockquote:nth-child(n+3) p{
+#chapter-2 > blockquote p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
 }
 
-#chapter-2 p:nth-child(6){
-	line-height: 2;
-	text-align: center;
-	text-indent: 0;
+#chapter-2 > blockquote:first-of-type p:first-child{
+	font-size: 1.5em;
+	font-variant: all-small-caps;
+}
+
+#chapter-2 > blockquote em{
+	font-variant: normal;
 }
