@@ -62,7 +62,7 @@
 		<dc:source>https://archive.org/details/puddnheadwilsone0000mark</dc:source>
 		<meta property="se:production-notes">Chapter titles taken from 1922 scans</meta>
 		<meta property="se:word-count">53547</meta>
-		<meta property="se:reading-ease.flesch">68.4</meta>
+		<meta property="se:reading-ease.flesch">68.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pudd%27nhead_Wilson</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mark-twain_puddnhead-wilson</meta>
 		<dc:creator id="author">Mark Twain</dc:creator>
