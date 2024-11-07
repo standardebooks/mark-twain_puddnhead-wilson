@@ -78,7 +78,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 #chapter-2 > blockquote:first-of-type p:first-child{
-	font-size: 1.5em;
+	font-size: larger;
 	font-variant: all-small-caps;
 }
 
