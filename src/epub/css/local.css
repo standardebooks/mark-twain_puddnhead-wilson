@@ -85,3 +85,7 @@ section > header [epub|type~="epigraph"] + *{
 #chapter-2 > blockquote em{
 	font-variant: normal;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
