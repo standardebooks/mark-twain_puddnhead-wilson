@@ -50,6 +50,8 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2008108937</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A small-town lawyer unravels a complex web of switched identities and exposes the true nature of individuals in a racially divided society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pudd’nhead Wilson&lt;/i&gt; is a thought-provoking novel set in the fictional town of Dawson’s Landing, Missouri. The story revolves around the peculiar character of David Wilson, known as “Pudd’nhead” Wilson, a quirky and eccentric young lawyer with the unusual hobby of collecting fingerprints. As he experiments with this new forensic science, Wilson becomes entangled in the lives of two infants, Tom Driscoll, the son of a wealthy local family, and Chambers, a slave child. Due to a mix-up during infancy, the two boys’ lives take drastically different paths, with Tom growing up as the heir to a fortune, and Chambers living the life of a slave.&lt;/p&gt;
